@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "brainstorm",
+  "description": "Brainstorm — прожарка ідеї і ТЗ перед створенням",
+  "owner": {
+    "name": "Dream Marketing"
+  },
+  "plugins": [
+    {
+      "name": "brainstorm",
+      "description": "Агент допитує раундами, докопується до суті й пише ТЗ, з якого одразу можна будувати",
+      "author": {
+        "name": "Dream Marketing"
+      },
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}

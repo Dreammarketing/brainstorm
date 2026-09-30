@@ -1,0 +1,11 @@
+{
+  "name": "brainstorm",
+  "version": "1.0.0",
+  "description": "Прожарка ідеї перед створенням: агент допитує раундами, докопується до суті й пише ТЗ, з якого одразу можна будувати. Для AI-агентів, ботів, CRM, ERP, платформ і будь-яких проєктів. Українською або російською — мовою, якою пишеш ти.",
+  "author": {
+    "name": "Dream Marketing"
+  },
+  "homepage": "https://github.com/Dreammarketing/brainstorm",
+  "license": "MIT",
+  "keywords": ["brainstorm", "spec", "tz", "requirements", "grill-me", "ukrainian"]
+}
