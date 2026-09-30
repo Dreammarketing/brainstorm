@@ -87,6 +87,3 @@ git clone https://github.com/Dreammarketing/brainstorm.git /tmp/brainstorm && mk
 | `skills/brainstorm/TZ-TEMPLATE.md` | Шаблон ТЗ |
 | `.claude-plugin/` | Маніфест плагіна для встановлення однією командою |
 
----
-
-Механіка раундів адаптована з [mattpocock/skills](https://github.com/mattpocock/skills) (MIT). Ліцензія: MIT, Dream Marketing.
